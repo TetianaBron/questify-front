@@ -12,4 +12,5 @@ challenges, which will be sorted by date
 * REST API;
 * AXIOUS;
 * NODE.JS;
-* EXPRESS
+* EXPRESS;
+* MongoDB
